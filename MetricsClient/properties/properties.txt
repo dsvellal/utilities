@@ -1,0 +1,4 @@
+index=metricsdemoindex
+type=metrics
+port=9200
+host=localhost

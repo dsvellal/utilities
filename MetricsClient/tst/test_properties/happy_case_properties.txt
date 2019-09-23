@@ -1,0 +1,4 @@
+index=dummyIndex
+type=dummyType
+port=9200
+host=dummyHost
